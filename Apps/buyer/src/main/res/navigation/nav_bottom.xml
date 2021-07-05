@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_bottom"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.dolling.ui.main.home.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.dolling.ui.main.favorite.FavoriteFragment"
+        android:label="FavoriteFragment" />
+    <fragment
+        android:id="@+id/historyContainerFragment"
+        android:name="com.dolling.ui.main.history.HistoryContainerFragment"
+        android:label="HistoryFragment" />
+    <fragment
+        android:id="@+id/inboxFragment"
+        android:name="com.dolling.ui.main.inbox.InboxFragment"
+        android:label="InboxFragment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.dolling.ui.main.profile.ProfileFragment"
+        android:label="ProfileFragment" />
+</navigation>

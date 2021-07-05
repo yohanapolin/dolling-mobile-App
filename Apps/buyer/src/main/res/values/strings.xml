@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dolling</string>
+    <string name="home_fragment_title">Beranda</string>
+    <string name="favorite_fragment_title">Favorit</string>
+    <string name="history_fragment_title">Riwayat</string>
+    <string name="inbox_fragment_title">Pesan Masuk</string>
+    <string name="profile_fragment_title">Profil</string>
+</resources>

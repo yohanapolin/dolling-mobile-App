@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045556546875",
+    "project_id": "dolling-b21-cap0114",
+    "storage_bucket": "dolling-b21-cap0114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045556546875:android:f9f1c11938f4d2d0707b1e",
+        "android_client_info": {
+          "package_name": "com.dolling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045556546875-slseik4ms4htr1dpoqcoj096jt34sn6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5j5r316B15OmdoA06quBk8eMaVhhbq0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045556546875-slseik4ms4htr1dpoqcoj096jt34sn6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

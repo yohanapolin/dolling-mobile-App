@@ -1,0 +1,45 @@
+user: (firebase)
+
+seller: ✅
+- id (phone_number)
+- store_name
+- store_photo_url
+- location_point
+- rating
+- status
+
+menu: (inside seller) ✅
+- id
+- seller_id
+- name
+- description
+- price
+- photo_url
+
+rating: (inside seller) ✅
+- value
+
+ordered_menu:
+- id
+- menu
+- quantity
+
+order: (make 2, one for seller ✅, one for user)
+- id
+- payment_method
+- total_price
+- user_id
+- timestamp
+
+favorite:
+- seller_id
+- store_name
+- photo_url
+
+inbox: ✅
+- title
+- message
+- timestamp
+
+
+uWPpdI0yf7chNGoy8aNs
